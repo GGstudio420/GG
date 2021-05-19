@@ -7,15 +7,20 @@ Join our discord channel to get more info about the modpack and server and also 
 
 -----
 ## 🇮‌🇳‌🇸‌🇹‌🇦‌🇱‌🇱‌🇦‌🇹‌🇮‌🇴🇳‌
-I. Download our latest via [discord](discord.gg/fWyugRFsCt) and get [winrar](https://www.winrar.com) to extra
-II. Test
-III. Test
+Follow the next steps to install the modpack.
 
+↪ Coming soon ...
 -----
+
 ## 🇫‌🇪‌🇦‌🇹‌🇺‌🇷‌🇪‌🇸‌ 🇦‌🇳‌🇩‌ 🇷‌🇴‌🇦‌🇩‌🇲‌🇦‌🇵‌
-- [ ] Create a github reposity
-- [ ] Add a manual installation guide
-- [ ] 
-- [ ] 
+[ + ] ↪ Create a github reposity.
+
+[ _ ] ↪ Create a Installation guide.
+
+[ _ ] ↪ Add custom artwork.
+
+[ _ ] ↪ Install ValheimAntiCheatSystem to the server.
+
+[ _ ] ↪ Create a SmallStartersTown Concept with a general vendor, bounty hunter and much more.
 
 -----
